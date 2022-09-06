@@ -1,2 +1,4 @@
-List_name =input()
-# print(List_name)
+n=7
+# while n>0:
+#     print(n)
+#     n-=1
